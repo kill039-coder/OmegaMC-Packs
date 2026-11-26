@@ -1,2 +1,2 @@
-# OmegaMC-Packs
+# OmegaMC Packs
 
